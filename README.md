@@ -96,7 +96,6 @@ Credit-Card-Fraud-Detection/
 │
 ├── Credit card.ipynb
 ├── credit card data.csv
-├── model.pkl
 └── README.md
 
 ---

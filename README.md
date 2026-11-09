@@ -95,7 +95,7 @@ In fraud detection, Recall and Precision are particularly important for understa
 Credit-Card-Fraud-Detection/
 │
 ├── Credit card.ipynb
-├── creditcard.csv
+├── credit card data.csv
 ├── model.pkl
 └── README.md
 
